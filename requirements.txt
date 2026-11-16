@@ -1,0 +1,9 @@
+streamlit
+ultralytics==8.4.215
+opencv-python-headless==4.10.0.84
+streamlit-webrtc==0.79.1
+pandas
+Pillow
+mysql-connector-python
+av
+numpy==1.26.4
