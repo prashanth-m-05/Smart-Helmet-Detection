@@ -27,7 +27,7 @@ from database import (
 # 1. BASIC SETUP
 # ──────────────────────────────────────────────────────────────
 BASE = Path(__file__).resolve().parent
-MODEL_FILE = BASE / "models" / "best.pt"
+MODEL_FILE = BASE / "best.pt"
 
 st.set_page_config(
     page_title="Smart Helmet Detection",
